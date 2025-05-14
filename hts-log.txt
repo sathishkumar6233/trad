@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 14 May 2025 14:41:22 at https://tradteleradiology.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://tradteleradiology.com/
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://tradteleradiology.com/ -O1 "D:\html and css , bootstrap\trad" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://tradteleradiology.com/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:41:38	Error: 	"Not Found" (404) at link https://tradteleradiology.com/feed/ (from https://tradteleradiology.com/)
+14:41:38	Error: 	"Not Found" (404) at link https://tradteleradiology.com/comments/feed/ (from https://tradteleradiology.com/)
+14:42:05	Error: 	"Not Found" (404) at link https://tradteleradiology.com/wp-json/ (from https://tradteleradiology.com/)
+14:42:05	Error: 	"Not Found" (404) at link https://tradteleradiology.com/wp-json/wp/v2/pages/509 (from https://tradteleradiology.com/)
+14:42:05	Error: 	"Not Found" (404) at link https://tradteleradiology.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftradteleradiology.com%2F (from https://tradteleradiology.com/)
+14:42:05	Error: 	"Not Found" (404) at link https://tradteleradiology.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftradteleradiology.com%2F&format=xml (from https://tradteleradiology.com/)
+14:42:05	Error: 	"Not Found" (404) at link localhost/wptest/wp-content/uploads/2019/10/bg-page-title.jpg (from https://tradteleradiology.com/)
+14:42:08	Error: 	"Not Found" (404) at link https://tradteleradiology.com/wp-content/plugins/ctcore/assets/css/owl.video.play.png (from https://tradteleradiology.com/wp-content/plugins/ctcore/assets/css/owl.carousel.min.css?ver=6.8.1)
+14:42:24	Error: 	"Not Found" (404) at link https://tradteleradiology.com/wp-content/themes/trad/assets/images/icon-call.png (from https://tradteleradiology.com/wp-content/themes/trad/assets/css/theme.css?ver=6.8.1)
+14:42:24	Error: 	"Not Found" (404) at link https://tradteleradiology.com/wp-content/themes/trad/assets/images/dot-overlay.png (from https://tradteleradiology.com/wp-content/themes/trad/assets/css/theme.css?ver=6.8.1)
+14:42:24	Error: 	"Not Found" (404) at link https://tradteleradiology.com/wp-content/themes/trad/assets/css/icons.svg (from https://tradteleradiology.com/wp-content/themes/trad/assets/css/menu.css?ver=6.8.1)
+14:42:24	Warning: 	File not parsed, looks like binary: https://tradteleradiology.com/wp-content/plugins/revslider/public/assets/css/openhand.cur
+14:42:24	Warning: 	File not parsed, looks like binary: https://tradteleradiology.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 2 seconds : 184 links scanned, 172 files written (18603872 bytes overall) [16311565 bytes received at 263089 bytes/sec], 2922803 bytes transferred using HTTP compression in 46 files, ratio 19%, 20.5 requests per connection
+(11 errors, 2 warnings, 0 messages)
